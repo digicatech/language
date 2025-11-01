@@ -12,14 +12,14 @@
 $lang['AgingInvoices.heading.client_last_name'] = 'Müşteri Soyadı';
 $lang['AgingInvoices.heading.client_first_name'] = 'Müşteri Adı';
 $lang['AgingInvoices.heading.client_id_code'] = 'Müşteri #';
-$lang['AgingInvoices.heading.id_code'] = 'Fatura #';
+$lang['AgingInvoices.heading.id_code'] = 'Makbuz #';
 $lang['AgingInvoices.option.any'] = 'Herhangi bir';
 $lang['AgingInvoices.options.field_status'] = 'Durum';
 $lang['AgingInvoices.heading.past90'] = '90+';
 $lang['AgingInvoices.heading.past60'] = '60';
 $lang['AgingInvoices.heading.past30'] = '30';
 $lang['AgingInvoices.heading.date_due'] = 'Son Tarih';
-$lang['AgingInvoices.heading.date_billed'] = 'Fatura Tarihi';
+$lang['AgingInvoices.heading.date_billed'] = 'Makbuz Tarihi';
 $lang['AgingInvoices.heading.status'] = 'Durum';
 $lang['AgingInvoices.heading.currency'] = 'Para Birimi';
 $lang['AgingInvoices.heading.paid'] = 'Ücretli';

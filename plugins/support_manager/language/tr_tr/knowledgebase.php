@@ -10,7 +10,7 @@
  */
 
 $lang['Knowledgebase.!text.ellipsis'] = '...';
-$lang['Knowledgebase.!text.root_directory'] = 'Ev';
+$lang['Knowledgebase.!text.root_directory'] = 'Anasayfa';
 $lang['Knowledgebase.view.text_vote_thanks'] = 'Bu makaleye oy verdiğiniz için teşekkür ederiz!';
 $lang['Knowledgebase.view.text_voted'] = 'Bu maddeye zaten oy vermiştiniz.';
 $lang['Knowledgebase.view.edit'] = 'Düzenle';

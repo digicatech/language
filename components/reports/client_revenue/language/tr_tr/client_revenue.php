@@ -17,6 +17,6 @@ $lang['ClientRevenue.options.field_end_date'] = 'Bitiş Tarihi';
 $lang['ClientRevenue.options.field_start_date'] = 'Başlangıç Tarihi';
 $lang['ClientRevenue.options.currency'] = 'Para Birimi';
 $lang['ClientRevenue.option.any'] = 'Herhangi bir';
-$lang['ClientRevenue.description'] = 'Müşteriyle ilişkili tüm faturalara ödenen tutarı toplayarak her müşteri için bir para biriminden elde edilen geliri hesaplar.';
+$lang['ClientRevenue.description'] = 'Müşteriyle ilişkili tüm makbuzlar için ödenen tutarı toplayarak her müşteri için bir para biriminden elde edilen geliri hesaplar.';
 $lang['ClientRevenue.name'] = 'Client Revenue';
 

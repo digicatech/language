@@ -13,5 +13,5 @@ $lang['ClientMain.index.no_downloads'] = 'Bu bölümde herhangi bir indirme mevc
 $lang['ClientMain.index.login'] = 'Bu bölümdeki indirmeleri görüntülemek için giriş yapmalısınız.';
 $lang['ClientMain.index.boxtitle_downloads'] = 'İndirmeler';
 $lang['ClientMain.index.page_title'] = 'İndirmeler';
-$lang['ClientMain.!text.root_directory'] = 'Ev';
+$lang['ClientMain.!text.root_directory'] = 'Anasayfa';
 

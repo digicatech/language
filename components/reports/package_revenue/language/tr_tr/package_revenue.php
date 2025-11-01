@@ -15,10 +15,10 @@ $lang['PackageRevenue.heading.service_count'] = 'Birimler';
 $lang['PackageRevenue.heading.module_name'] = 'Modül';
 $lang['PackageRevenue.heading.status'] = 'Durum';
 $lang['PackageRevenue.heading.package_name'] = 'Paket';
-$lang['PackageRevenue.options.field_end_date'] = 'Fatura Kapanış Bitiş Tarihi';
-$lang['PackageRevenue.options.field_start_date'] = 'Fatura Kapalı Başlangıç Tarihi';
+$lang['PackageRevenue.options.field_end_date'] = 'Makbuz Kapanış Bitiş Tarihi';
+$lang['PackageRevenue.options.field_start_date'] = 'Makbuz Kapalı Başlangıç Tarihi';
 $lang['PackageRevenue.options.currency'] = 'Para Birimi';
 $lang['PackageRevenue.option.any'] = 'Herhangi bir';
-$lang['PackageRevenue.description'] = 'Paketle ilişkili ödenmiş fatura satır öğelerini toplayarak her paket için bir para biriminden elde edilen geliri hesaplar.';
+$lang['PackageRevenue.description'] = 'Paketle ilişkili ödenmiş makbuz satır öğelerini toplayarak her paket için bir para biriminden elde edilen geliri hesaplar.';
 $lang['PackageRevenue.name'] = 'Package Revenue';
 
