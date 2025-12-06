@@ -17,10 +17,10 @@ $lang['Automation.task.deliver_reports.invoice_creation.email_success'] = 'Fatur
 $lang['Automation.task.deliver_reports.invoice_creation.email_error'] = 'Fatura Oluşturma raporu e-postası gönderilemedi.';
 $lang['Automation.task.deliver_reports.invoice_creation.attachment_fail'] = 'Fatura Oluşturma raporu eki oluşturulamıyor.';
 $lang['Automation.task.deliver_reports.invoice_creation.attempt'] = 'Fatura Oluşturma raporu gönderilmeye çalışılıyor.';
-$lang['Automation.task.deliver_reports.aging_invoices.email_success'] = 'Eskiyen Faturalar rapor e-postası gönderildi.';
-$lang['Automation.task.deliver_reports.aging_invoices.email_error'] = 'Yaşlandırılmış Faturalar e-postası gönderilemedi.';
-$lang['Automation.task.deliver_reports.aging_invoices.attachment_fail'] = 'Yaşlandırılmış Faturalar rapor eki oluşturulamıyor.';
-$lang['Automation.task.deliver_reports.aging_invoices.attempt'] = 'Eskiyen Faturalar raporu gönderilmeye çalışılıyor.';
+$lang['Automation.task.deliver_reports.aging_invoices.email_success'] = 'Eskiyen ödeme makbuzları rapor e-postası gönderildi.';
+$lang['Automation.task.deliver_reports.aging_invoices.email_error'] = 'Yaşlandırılmış ödeme makbuzları e-postası gönderilemedi.';
+$lang['Automation.task.deliver_reports.aging_invoices.attachment_fail'] = 'Yaşlandırılmış ödeme makbuzları rapor eki oluşturulamıyor.';
+$lang['Automation.task.deliver_reports.aging_invoices.attempt'] = 'Eskiyen ödeme makbuzları raporu gönderilmeye çalışılıyor.';
 $lang['Automation.task.deliver_reports.completed'] = 'Raporları teslim etme görevi tamamlandı.';
 $lang['Automation.task.deliver_reports.attempt'] = 'Raporlar teslim edilmeye çalışılıyor.';
 

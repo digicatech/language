@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientInvoices.applied.no_results'] = 'Bu faturaya uygulanan herhangi bir işlem yoktur.';
+$lang['ClientInvoices.applied.no_results'] = 'Bu ödeme makbuzuna uygulanan herhangi bir işlem yoktur.';
 $lang['ClientInvoices.applied.heading_appliedon'] = 'Uygulandı';
 $lang['ClientInvoices.applied.heading_applied'] = 'Uygulamalı';
 $lang['ClientInvoices.applied.heading_amount'] = 'Miktar';
@@ -18,20 +18,20 @@ $lang['ClientInvoices.index.option_pay'] = 'Ödeme';
 $lang['ClientInvoices.index.option_view'] = 'Görünüm';
 $lang['ClientInvoices.index.heading_options'] = 'Seçenekler';
 $lang['ClientInvoices.index.heading_datedue'] = 'Son Tarih';
-$lang['ClientInvoices.index.heading_datebilled'] = 'Fatura Tarihi';
+$lang['ClientInvoices.index.heading_datebilled'] = 'Makbuz Tarihi';
 $lang['ClientInvoices.index.heading_dateclosed'] = 'Tarih Kapalı';
 $lang['ClientInvoices.index.heading_due'] = 'Neden';
 $lang['ClientInvoices.index.heading_paid'] = 'Ücretli';
 $lang['ClientInvoices.index.heading_amount'] = 'Miktar';
-$lang['ClientInvoices.index.heading_invoice'] = 'Fatura #';
-$lang['ClientInvoices.index.boxtitle_invoices'] = 'Faturalar';
+$lang['ClientInvoices.index.heading_invoice'] = 'Makbuz #';
+$lang['ClientInvoices.index.boxtitle_invoices'] = 'Makbuzlar';
 $lang['ClientInvoices.index.categorylink_make_payment'] = 'Ödeme Yapın';
 $lang['ClientInvoices.index.category_closed'] = 'Kapalı';
 $lang['ClientInvoices.index.category_open'] = 'Açık';
-$lang['ClientInvoices.index.page_title'] = 'Müşteri #%1$s Faturaları';
-$lang['ClientInvoices.index.no_results'] = 'Sizde %1$s yok Faturalar.';
-$lang['ClientInvoices.view.field_pay_invoice'] = 'Fatura Öde';
-$lang['ClientInvoices.view.field_download'] = 'Fatura İndir';
+$lang['ClientInvoices.index.page_title'] = 'Müşteri #%1$s Makbuzları';
+$lang['ClientInvoices.index.no_results'] = 'Sizde %1$s yok Makbuzlar.';
+$lang['ClientInvoices.view.field_pay_invoice'] = 'Makbuz Öde';
+$lang['ClientInvoices.view.field_download'] = 'Makbuz İndir';
 $lang['ClientInvoices.view.invoice_terms'] = 'Şartlar';
 $lang['ClientInvoices.view.invoice_notes'] = 'Notlar';
 $lang['ClientInvoices.view.invoice_total'] = 'Toplam';
