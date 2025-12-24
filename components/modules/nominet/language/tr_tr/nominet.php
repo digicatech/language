@@ -9,7 +9,7 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['Nominet.tab_client_settings.field_submit'] = 'Etki Alanını Güncelle';
+$lang['Nominet.tab_client_settings.field_submit'] = 'Alan Adını Güncelle';
 $lang['Nominet.tab_client_settings.field_tag'] = 'IPS Etiketi';
 $lang['Nominet.tab_client_settings.text_auth_code'] = 'Alan adınızı başka bir sağlayıcıya aktarmak için bu yetkilendirme kodunu kullanın.';
 $lang['Nominet.tab_client_settings.text_push_domain'] = 'Alan adını başka bir kayıt kuruluşuna aktarın (itin). (Bu işlem geri alınamaz)';
@@ -40,7 +40,7 @@ $lang['Nominet.tab_client_whois.section_tech'] = 'Teknik';
 $lang['Nominet.tab_client_whois.section_admin'] = 'İdari';
 $lang['Nominet.tab_client_whois.heading'] = 'İletişim';
 $lang['Nominet.tab_client_whois.title'] = 'İletişim';
-$lang['Nominet.tab_settings.field_submit'] = 'Etki Alanını Güncelle';
+$lang['Nominet.tab_settings.field_submit'] = 'Alan Adını Güncelle';
 $lang['Nominet.tab_settings.field_tag'] = 'IPS Etiketi';
 $lang['Nominet.tab_settings.text_auth_code'] = 'Alan adınızı başka bir sağlayıcıya aktarmak için bu yetkilendirme kodunu kullanın.';
 $lang['Nominet.tab_settings.text_push_domain'] = 'Alan adını başka bir kayıt kuruluşuna aktarın (itin). (Bu işlem geri alınamaz)';
@@ -95,14 +95,14 @@ $lang['Nominet.service_fields.ns4'] = 'İsim Sunucusu 4';
 $lang['Nominet.service_fields.ns3'] = 'İsim Sunucusu 3';
 $lang['Nominet.service_fields.ns2'] = 'İsim Sunucusu 2';
 $lang['Nominet.service_fields.ns1'] = 'İsim Sunucusu 1';
-$lang['Nominet.service_fields.domain'] = 'Etki Alanı';
-$lang['Nominet.service_info.domain'] = 'Etki Alanı';
+$lang['Nominet.service_fields.domain'] = 'Alan Adı';
+$lang['Nominet.service_info.domain'] = 'Alan Adı';
 $lang['Nominet.!error.ns5.valid'] = 'Geçersiz Ad Sunucusu 5';
 $lang['Nominet.!error.ns4.valid'] = 'Geçersiz Ad Sunucusu 4';
 $lang['Nominet.!error.ns3.valid'] = 'Geçersiz Ad Sunucusu 3';
 $lang['Nominet.!error.ns2.valid'] = 'Geçersiz Ad Sunucusu 2';
 $lang['Nominet.!error.ns1.valid'] = 'Geçersiz Ad Sunucusu 1';
-$lang['Nominet.!error.domain.valid'] = 'Verilen etki alanı geçersiz.';
+$lang['Nominet.!error.domain.valid'] = 'Verilen alan adı geçersiz.';
 $lang['Nominet.!error.module_row.missing'] = 'Dahili bir hata oluştu. Modül satırı kullanılamıyor.';
 $lang['Nominet.row_meta.sandbox'] = 'Sandbox';
 $lang['Nominet.row_meta.secure'] = 'Güvenli Bağlantı Kullanın';

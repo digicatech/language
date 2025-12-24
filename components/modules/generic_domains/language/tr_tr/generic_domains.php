@@ -12,8 +12,8 @@
 $lang['GenericDomains.manage.text'] = 'Personel grubu bu BCC bildirimlerini ayarlamışsa ve personel üyesi [Bilgilerim] -> [Bildirimler] bölümünden bunlara abone olmuşsa, personel hizmet oluşturma, askıya alma ve iptal e-postalarının BCC kopyalarını alabilir.';
 $lang['GenericDomains.package_fields.tld_options'] = 'TLD\'ler';
 $lang['GenericDomains.transfer.transfer_key'] = 'EPP Kodu';
-$lang['GenericDomains.transfer.domain'] = 'Etki Alanı';
-$lang['GenericDomains.domain.domain'] = 'Etki Alanı';
+$lang['GenericDomains.transfer.domain'] = 'Alan Adı';
+$lang['GenericDomains.domain.domain'] = 'Alan Adı';
 $lang['GenericDomains.module_row_plural'] = 'Modül Satırları';
 $lang['GenericDomains.module_row'] = 'Modül Satırı';
 $lang['GenericDomains.description'] = 'Alan adı kaydı için genel bir modül.';

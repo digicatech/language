@@ -10,10 +10,10 @@
  */
 
 $lang['Accounts.getCcTypes.other'] = 'Diğer';
-$lang['Accounts.getCcTypes.visa'] = 'Vize';
-$lang['Accounts.getCcTypes.switch'] = 'Anahtar';
+$lang['Accounts.getCcTypes.visa'] = 'Visa';
+$lang['Accounts.getCcTypes.switch'] = 'Switch';
 $lang['Accounts.getCcTypes.solo'] = 'Solo';
-$lang['Accounts.getCcTypes.mc'] = 'Ana Kart';
+$lang['Accounts.getCcTypes.mc'] = 'MasterCard';
 $lang['Accounts.getCcTypes.maes'] = 'Maestro';
 $lang['Accounts.getCcTypes.lasr'] = 'Lazer';
 $lang['Accounts.getCcTypes.jcb'] = 'Japonya Kredi Bürosu';
@@ -26,7 +26,7 @@ $lang['Accounts.getCcTypes.dc-cb'] = 'Diners Club Carte Blanche';
 $lang['Accounts.getCcTypes.cup'] = 'Çin Sendika Maaşı';
 $lang['Accounts.getCcTypes.bc'] = 'Banka Kartı';
 $lang['Accounts.getCcTypes.amex'] = 'American Express';
-$lang['Accounts.getAchTypes.savings'] = 'Tasarruf';
+$lang['Accounts.getAchTypes.savings'] = 'Tasarruflar';
 $lang['Accounts.getAchTypes.checking'] = 'Kontrol';
 $lang['Accounts.getTypes.other'] = 'Diğer';
 $lang['Accounts.getTypes.ach'] = 'Otomatik Takas Odası';
@@ -34,7 +34,7 @@ $lang['Accounts.getTypes.cc'] = 'Kredi Kartı';
 $lang['Accounts.!error.cc_account_id.exists'] = 'Geçersiz hesap kimliği.';
 $lang['Accounts.!error.type.cc_format'] = 'Kart tipi geçersiz veya belirlenemedi.';
 $lang['Accounts.!error.last4.empty_cc'] = 'Lütfen kredi kartı numarasının son dört hanesini girin.';
-$lang['Accounts.!error.expiration.valid'] = 'Son kullanma tarihi çoktan geçmiştir.';
+$lang['Accounts.!error.expiration.valid'] = 'Son kullanma tarihi geçmiştir.';
 $lang['Accounts.!error.expiration.empty'] = 'Lütfen kredi kartı son kullanma tarihini giriniz.';
 $lang['Accounts.!error.number.valid'] = 'Verilen kart numarası geçersiz.';
 $lang['Accounts.!error.ach_account_id.exists'] = 'Geçersiz hesap kimliği.';

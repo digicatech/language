@@ -9,10 +9,10 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['ClientAccounts.navigation.nav_return'] = 'Gösterge Tablosuna Dön';
+$lang['ClientAccounts.navigation.nav_return'] = 'Panele Dön';
 $lang['ClientAccounts.navigation.nav_paymentaccounts_add'] = 'Ödeme Hesabı Ekle';
 $lang['ClientAccounts.navigation.nav_paymentaccounts'] = 'Ödeme Hesapları';
-$lang['ClientAccounts.navigation.nav_dashboard'] = 'Gösterge Tablosu';
+$lang['ClientAccounts.navigation.nav_dashboard'] = 'Panel';
 $lang['ClientAccounts.ach_info.field_savedetails'] = 'Hesap Kaydet';
 $lang['ClientAccounts.ach_info.field_routingnum'] = 'Yönlendirme Numarası';
 $lang['ClientAccounts.ach_info.field_accountnum'] = 'Hesap Numarası';
@@ -22,7 +22,7 @@ $lang['ClientAccounts.cc_info.tooltip_code'] = 'Genellikle kartın arkasında bu
 $lang['ClientAccounts.cc_info.field_savedetails'] = 'Hesap Kaydet';
 $lang['ClientAccounts.cc_info.field_expiration'] = 'Son Kullanma Tarihi';
 $lang['ClientAccounts.cc_info.field_security'] = 'Güvenlik Kodu';
-$lang['ClientAccounts.cc_info.field_number'] = 'Sayı';
+$lang['ClientAccounts.cc_info.field_number'] = 'Kart Numarası';
 $lang['ClientAccounts.cc_info.heading_cc'] = 'Kredi Kartı Bilgileri';
 $lang['ClientAccounts.contact_info.field_email'] = 'E-posta';
 $lang['ClientAccounts.contact_info.field_zip'] = 'Posta Kodu';

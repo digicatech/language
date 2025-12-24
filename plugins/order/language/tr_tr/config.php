@@ -11,7 +11,7 @@
 
 $lang['Config.index.field_default_addon'] = 'Hiçbiri';
 $lang['Config.index.field_module_group_id'] = 'Grup';
-$lang['Config.!error.invalid_domain_term'] = '"%1$s" etki alanı için seçilen terim geçersiz.';
+$lang['Config.!error.invalid_domain_term'] = '"%1$s" alan adı için seçilen terim geçersiz.';
 $lang['Config.!error.domain_duplicated'] = '"%1$s" alan adı zaten sepetinizde bulunuyor.';
 $lang['Config.!error.invalid_module'] = 'Paket şu anda kullanılamıyor.';
 $lang['Config.!error.invalid_pricing_id'] = 'Verilen paket bulunamadı.';

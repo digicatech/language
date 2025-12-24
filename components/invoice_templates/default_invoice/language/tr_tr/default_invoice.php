@@ -9,24 +9,24 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DefaultInvoice.balance_heading'] = 'Denge';
-$lang['DefaultInvoice.payments_applied_amount'] = 'Uygulanan Miktar';
+$lang['DefaultInvoice.balance_heading'] = 'Bakiye';
+$lang['DefaultInvoice.payments_applied_amount'] = 'Uygulanan Tutar';
 $lang['DefaultInvoice.payments_transaction_id'] = 'İşlem Numarası';
 $lang['DefaultInvoice.payments_type_name'] = 'Tip';
-$lang['DefaultInvoice.payments_applied_date'] = 'Başvurulan Tarih';
+$lang['DefaultInvoice.payments_applied_date'] = 'Uygulama Tarihi';
 $lang['DefaultInvoice.payments_heading'] = 'Ödemeler';
-$lang['DefaultInvoice.watermark_paid'] = 'ÜCRETLİ';
-$lang['DefaultInvoice.lines_cost'] = 'Maliyet';
-$lang['DefaultInvoice.lines_unit_price'] = 'Birim Fiyat';
+$lang['DefaultInvoice.watermark_paid'] = 'ÖDENDİ';
+$lang['DefaultInvoice.lines_cost'] = 'Tutar';
+$lang['DefaultInvoice.lines_unit_price'] = 'Birim Fiyatı';
 $lang['DefaultInvoice.lines_quantity'] = 'Miktar';
 $lang['DefaultInvoice.lines_description'] = 'Açıklama';
 $lang['DefaultInvoice.total_heading'] = 'Toplam';
 $lang['DefaultInvoice.subtotal_heading'] = 'Ara Toplam';
 $lang['DefaultInvoice.notes_heading'] = 'Notlar';
-$lang['DefaultInvoice.date_due'] = 'Son tarih:';
-$lang['DefaultInvoice.date_expires'] = 'Son kullanma tarihi:';
+$lang['DefaultInvoice.date_due'] = 'Son Ödeme Tarihi:';
+$lang['DefaultInvoice.date_expires'] = 'Son Geçerlilik Tarihi:';
 $lang['DefaultInvoice.date_billed'] = 'Makbuz Tarihi:';
-$lang['DefaultInvoice.date_created'] = 'Oluşturulma Tarihi:';
+$lang['DefaultInvoice.date_created'] = 'Oluşturma Tarihi:';
 $lang['DefaultInvoice.client_tax_id'] = 'Müşteri Vergi Kimliği/VATIN:';
 $lang['DefaultInvoice.tax_id'] = 'Vergi Kimliği/VATIN:';
 $lang['DefaultInvoice.client_id_code'] = 'Müşteri numarası:';
@@ -35,7 +35,7 @@ $lang['DefaultInvoice.draft_id_code'] = 'Taslak Numarası:';
 $lang['DefaultInvoice.proforma_id_code'] = 'Proforma Numara:';
 $lang['DefaultInvoice.invoice_id_code'] = 'Makbuz Numarası:';
 $lang['DefaultInvoice.type_quotation_draft'] = 'TEKLIF TASLAĞI';
-$lang['DefaultInvoice.type_quotation'] = 'KOTASYON';
+$lang['DefaultInvoice.type_quotation'] = 'TEKLIF';
 $lang['DefaultInvoice.type_proforma'] = 'PROFORMA FATURA';
 $lang['DefaultInvoice.type_void'] = 'MAKBUZ - GEÇERSİZ';
 $lang['DefaultInvoice.type_draft'] = 'MAKBUZ - TASLAK';

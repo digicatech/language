@@ -11,7 +11,7 @@
 
 $lang['AuthorizeNetAcceptjs.field_expiration'] = 'Son Kullanma Tarihi';
 $lang['AuthorizeNetAcceptjs.field_security'] = 'Güvenlik Kodu';
-$lang['AuthorizeNetAcceptjs.field_number'] = 'Sayı';
+$lang['AuthorizeNetAcceptjs.field_number'] = 'Kart Numarası';
 $lang['AuthorizeNetAcceptjs.description'] = 'Güvenli ödeme verilerini doğrudan Authorize.net\'e gönderin. Accept.js ödeme verilerini yakalar ve doğrudan Authorize.net\'e gönderir.';
 $lang['AuthorizeNetAcceptjs.!error.sandbox.valid'] = 'Sandbox verilmişse "true" olarak ayarlanmalıdır.';
 $lang['AuthorizeNetAcceptjs.charge_description_default'] = 'Belirtilen miktar için ücretlendirme';
