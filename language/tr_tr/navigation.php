@@ -112,7 +112,7 @@ $lang['Navigation.getprimary.nav_billing_reports'] = 'Raporlar';
 $lang['Navigation.getprimary.nav_billing_services'] = 'Hizmetler';
 $lang['Navigation.getprimary.nav_billing_transactions'] = 'İşlemler';
 $lang['Navigation.getprimary.nav_billing_quotations'] = 'Alıntılar';
-$lang['Navigation.getprimary.nav_billing_invoices'] = 'Faturalar';
+$lang['Navigation.getprimary.nav_billing_invoices'] = 'Mahbuzlar';
 $lang['Navigation.getprimary.nav_billing_overview'] = 'Genel Bakış';
 $lang['Navigation.getprimary.nav_billing'] = 'Faturalandırma';
 $lang['Navigation.getprimary.nav_clients_browse'] = 'Müşterilere Gözat';
@@ -125,6 +125,6 @@ $lang['Navigation.!error.action_id.valid'] = 'Geçersiz eylem kimliği';
 $lang['Navigation.getcompany.nav_html_templates'] = 'HTML Şablonları';
 $lang['Navigation.getprimary.nav_tools_provisioning'] = 'Servis Kuyruğu';
 $lang['Navigation.getprimary.nav_tools_servicechanges'] = 'Hizmet Değişiklikleri';
-$lang['Navigation.getcompany.nav_electronic_invoices'] = 'Elektronik Faturalar';
+$lang['Navigation.getcompany.nav_electronic_invoices'] = 'Elektronik Ödeme Makbuzları';
 $lang['Navigation.getcompany.nav_billing_credithandling'] = 'Kredi İşlemleri';
 

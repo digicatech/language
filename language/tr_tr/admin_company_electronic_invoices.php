@@ -14,5 +14,5 @@ $lang['AdminCompanyElectronicInvoices.index.no_formats'] = 'Hiçbir elektronik f
 $lang['AdminCompanyElectronicInvoices.index.heading_description'] = 'Açıklama';
 $lang['AdminCompanyElectronicInvoices.index.heading_format'] = 'Fatura Formatı';
 $lang['AdminCompanyElectronicInvoices.!success.formats_updated'] = 'Elektronik fatura formatları başarıyla güncellenmiştir.';
-$lang['AdminCompanyElectronicInvoices.index.boxtitle_electronic_invoices'] = 'Elektronik Faturalar';
+$lang['AdminCompanyElectronicInvoices.index.boxtitle_electronic_invoices'] = 'Elektronik Ödeme Makbuzları';
 
