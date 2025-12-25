@@ -9,8 +9,8 @@
  * @link http://www.blesta.com/ Blesta
  */
 
-$lang['DomainsFeed.getOptionFields.param_tlds_description'] = 'Etki alanlarını filtrelemek için virgülle ayrılmış TLDS listesi (ilk nokta hariç).';
-$lang['DomainsFeed.getOptionFields.param_status_description'] = 'Etki alanlarının filtreleneceği durum: etkin, iptal edilmiş veya beklemede.';
+$lang['DomainsFeed.getOptionFields.param_tlds_description'] = 'Alan adlarını filtrelemek için virgülle ayrılmış TLDS listesi (ilk nokta hariç).';
+$lang['DomainsFeed.getOptionFields.param_status_description'] = 'Alan adlarının filtreleneceği durum: etkin, iptal edilmiş veya beklemede.';
 $lang['DomainsFeed.getOptionFields.example_code_count'] = 'Kayıtlı alan adlarının sayısını gösterir:';
 $lang['DomainsFeed.getOptionFields.example_code_pricing'] = 'Belirli bir para birimindeki tüm TLD\'ler için fiyatlandırmayı içeren bir tablo gösterin:';
 $lang['DomainsFeed.!error.invalid_style'] = 'İstenen stil geçerli değil.';
